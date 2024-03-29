@@ -1,6 +1,6 @@
 # Parkinson's Disease Detection Project
 
-![Parkinsson](https://cdn.the-scientist.com/assets/articleNo/69988/aImg/45964/article-s.jpg](https://www.medicallyspeaking.in/wp-content/uploads/2022/03/brain_activity-5798eebf5f9b589aa9ae69b2.jpg)
+![Parkinsson](https://www.medicallyspeaking.in/wp-content/uploads/2022/03/brain_activity-5798eebf5f9b589aa9ae69b2.jpg)
 
 This repository contains a machine learning project aimed at detecting Parkinson's disease using various voice features. Parkinson's disease is a neurodegenerative disorder that affects movement. Early detection of Parkinson's disease can lead to better management and treatment outcomes. 
 
